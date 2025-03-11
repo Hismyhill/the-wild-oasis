@@ -1,5 +1,5 @@
 import DashboardLayout from "../features/dashboard/DashboardLayout";
-import DashBoardFilter from "../features/dashboard/DashBoardFilter.jsx";
+import DashBoardFilter from "../features/dashboard/DashboardFilter";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
 
